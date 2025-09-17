@@ -5,7 +5,7 @@ export const data = [
       option2: "Proteger o computador contra vírus",
       option3: "Gerenciar os recursos do computador e permitir a execução de programas",
       option4: "Criar websites automaticamente",
-      ans: 3,
+      ans: 1,
     },
     {
       question: "Qual das opções abaixo é um navegador de internet?",
